@@ -4,3 +4,5 @@ play.md
 .idea
 
 __pycache__
+
+*.local.*
