@@ -1,2 +1,6 @@
 .env
 play.md
+
+.idea
+
+__pycache__
